@@ -1,1 +1,0 @@
-# Soft-Spiral-Continuum-Robot-Manipulator-
