@@ -49,7 +49,7 @@ pip install -r requirements.txt
 git clone https://github.com/your-username/soft-spiral-robot.git
 cd soft-spiral-robot
 
-# 🐍 Soft Robotic Controller
+#  Soft Robotic Controller
 
 A MuJoCo-based soft robot simulation that mimics tendon-driven actuation through keyboard-controlled joints. This project explores elasticity, geometry scaling, and tendon-based control using realistic 3D models.
 
