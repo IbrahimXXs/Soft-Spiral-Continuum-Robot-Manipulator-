@@ -4,7 +4,9 @@
 
 *A biologically-inspired, tendon-driven soft robotic manipulator, simulated using [MuJoCo](https://mujoco.org/). This project explores the capabilities of soft continuum structures through a multi-segmented, muscle-actuated spiral design.*
 
----![image_2025-07-07_19-45-20](https://github.com/user-attachments/assets/edf420cb-7809-48d4-9add-13807467c00d) ![image_2025-07-07_19-45-41](https://github.com/user-attachments/assets/c39a7f0d-e469-4686-a0a5-f4cb5e4671b2)
+---
+
+![image](https://github.com/user-attachments/assets/fbe706a3-ba9c-4e27-a5c9-9d519cba4a26)
 
 
 
