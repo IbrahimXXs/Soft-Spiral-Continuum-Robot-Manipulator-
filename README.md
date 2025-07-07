@@ -38,14 +38,14 @@
 
 Install all dependencies:
 
-```bash
+
 pip install -r requirements.txt
+
 
 ##  Installation & Usage
 
 ### Clone the repository:
 
-```bash
 git clone https://github.com/your-username/soft-spiral-robot.git
 cd soft-spiral-robot
 
@@ -57,7 +57,6 @@ A MuJoCo-based soft robot simulation that mimics tendon-driven actuation through
 
 ##  Run the Simulation
 
-```bash
 python XXX.py
 
 #### Contributing
