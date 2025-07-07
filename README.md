@@ -75,13 +75,15 @@ Open a pull request
 
 #### License
 
+Created by: Ibrahim Alsarraj
+
 This project is licensed under the MIT License.
 
 #### Acknowledgments
 
-Thank you to the Rhino3D and Grasshopper communities for their invaluable resources and support.
+Thanks to Mujoco communities for their invaluable resources and support.
 
 #### Contact
 
-For inquiries and feedback, please contact
+For inquiries and feedback, please contact me on Instagram @d.a.v.i.c.h.i
 
